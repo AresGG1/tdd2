@@ -1,0 +1,12 @@
+{
+    "name": "taras/lab2",
+    "autoload": {
+        "psr-4": {
+            "Taras\\Lab2\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.5"
+    }
+}
